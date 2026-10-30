@@ -54,6 +54,7 @@ Awesome AI Tools of the Future
 - [Perplexity](https://www.perplexity.ai)
 - [YOU](https://you.com)
 - [Consensus](https://consensus.app/search/)
+- [FindAIforWork](https://findaiforwork.com) - Discover and compare AI tools by work scenario through a read-only remote MCP server.
 
 ### Community
 - [Hugging Face](https://huggingface.co)
